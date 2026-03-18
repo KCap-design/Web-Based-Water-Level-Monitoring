@@ -43,9 +43,9 @@ AquaWatch is a high-performance, real-time web dashboard designed to monitor wat
 
 ---
 
-## 🧠 Technical Challenges & "The Engineer's Approach"
+##  Technical Challenges & "The Engineer's Approach"
 
-As a 14-year-old developer, I don't just build things—I solve problems that usually require advanced engineering knowledge. Here are two major challenges I encountered during development and how I engineered custom solutions for them:
+As a 16-year-old developer, I don't just build things—I solve problems that usually require advanced engineering knowledge. Here are two major challenges I encountered during development and how I engineered custom solutions for them:
 
 ### 1. The "Heavy Library" Dilemma
 **Problem**: Most ready-made gauge libraries (like Chart.js or D3) are heavy, increasing page load times, and often don't match the modern, sleek aesthetic I wanted for AquaWatch.
@@ -63,7 +63,7 @@ As a 14-year-old developer, I don't just build things—I solve problems that us
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**:
    ```bash
@@ -79,10 +79,10 @@ As a 14-year-old developer, I don't just build things—I solve problems that us
 
 ---
 
-## 👨‍💻 About the Author
+##  About the Author
 
-Hi, I'm **Kurt Gerfred Caballero**. I'm a 14-year-old developer passionate about IoT, Full-stack development, and creating solutions for real-world problems. AquaWatch is part of my journey to bridge the gap between hardware and software, creating tools that are both functional and visually stunning.
+Hi, I'm **Kurt Gerfred Caballero**. I'm a 16-year-old developer passionate about IoT, Full-stack development, and creating solutions for real-world problems. AquaWatch is part of my journey to bridge the gap between hardware and software, creating tools that are both functional and visually stunning.
 
 ---
 
-*Made with ❤️ for Creative Tech (CMHS)*
+
